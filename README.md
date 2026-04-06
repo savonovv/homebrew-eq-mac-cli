@@ -6,5 +6,5 @@ Install:
 
 ```bash
 brew tap savonovv/eq-mac-cli
-brew install eq-mac-cli
+brew install savonovv/eq-mac-cli/eq-mac-cli
 ```
